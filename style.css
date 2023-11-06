@@ -15,6 +15,7 @@ body {
   background-color: rgb(8, 19, 163);
   box-shadow: 0 0 12px 2px black;
   max-width: 960px;
+  min-height: 960px;
   margin: 0 auto;
 }
 

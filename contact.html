@@ -3,7 +3,7 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Home</title>
+    <title>Contact</title>
     <link rel="stylesheet" href="style.css" />
     <script defer src="javascript.js"></script>
   </head>
@@ -11,26 +11,24 @@
     <header>
       <h1 class="logo">Jamie Chan</h1>
       <nav class="navigation">
-        <a class="active" href="index.html">Home</a>
+        <a href="index.html">Home</a>
         <a href="about.html">About</a>
         <a href="portfolio.html">Portfolio</a>
-        <a href="contact.html">Contact</a>
+        <a class="active" href="contact.html">Contact</a>
       </nav>
     </header>
     <main>
-      <img src="image/Self-image.jpg" alt="self image" />
-      <h2>Developer</h2>
-      <p>
-        To innovate through code, striving to build intuitive, scalable
-        solutions that transcend boundaries. With a commitment to continuous
-        learning and collaboration, I aim to craft efficient and secure
-        software.
-      </p>
-      <h3 class="quote">
-        "Strength and growth come only through continuous effort and struggle."
+      <h2>Contact Information</h2>
+      <form class="form-submit" action="./form-submitted.html">
+        <input type="text" placeholder="Name" />
         <br />
-        — Napoleon Hill.
-      </h3>
+        <input type="text" placeholder="Email" />
+        <br />
+        <br />
+        <textarea rows="10" cols="80" placeholder="Message"></textarea>
+        <br />
+        <input type="submit" value="Submit" />
+      </form>
     </main>
     <footer>
       <a href="https://facebook.com/" target="_blank"
