@@ -2,7 +2,7 @@
 Personal Web Page
 
 # About the Project
-A Personal Web Site which shows the Mission Statement, interests and portfolio of a person.
+A Personal Web Site which shows the Mission Statement, interests, portfolio of a person.
 
 This personal Web Site is built with Visual Studio Code
 
@@ -33,7 +33,8 @@ Google Chrome ver 118 or above / Safari ver 16 or above
 3. View different pages using the links in the navigation bar on top of the web page
     - [ ] “Home” - Personal Mission Statement
     - [ ] “About” - Personal Interests and things that are good at
-    - [ ] “Portfolio” - experiences and projects worked on 
+    - [ ] “Portfolio” - Experiences and projects worked on
+    - [ ] "Contact" - Contact Information
 4. View different social media using the link at the bottom of the web page
     - [ ] Facebook
     - [ ] LinkedIn
@@ -43,8 +44,11 @@ Google Chrome ver 118 or above / Safari ver 16 or above
 * 0.1
   - Initial Release
 
+* 0.2
+  - Added Contact Page
+
 # Roadmap
-Version 0.2 will be released later this month with Contact Form added
+Version 0.3 will be released end of this year with updated information for the About and Portfolio pages
 
 # License
 Nil
@@ -54,6 +58,15 @@ Name: Jamie Chan
 Email: jamiechan.s.w@gmail.com
 
 # Screens for the Personal Web Site
-<img width="1160" alt="Screenshot Home" src="https://github.com/CodeCamp-Group4/personal-web-page/assets/146297878/67cc5cc7-ac9b-486a-b523-4e10580f1c5d">
-<img width="1161" alt="Screenshot About" src="https://github.com/CodeCamp-Group4/personal-web-page/assets/146297878/fc3249d6-31bf-4138-b856-b39bb58b155b">
-<img width="1160" alt="Screenshot Portfolio" src="https://github.com/CodeCamp-Group4/personal-web-page/assets/146297878/d3734f02-9a2f-411a-ae95-1b615bc1038e">
+<img width="1168" alt="Screenshot 2023-11-06 at 12 40 54 PM" src="https://github.com/CodeCamp-Group4/personal-web-page/assets/146297878/7d718e3d-5f04-4fc5-8f14-1fa0a6ffee07">
+
+<img width="1168" alt="Screenshot 2023-11-06 at 12 41 12 PM" src="https://github.com/CodeCamp-Group4/personal-web-page/assets/146297878/0dc38156-9632-4acc-9dc4-bb0afe3aa1d0">
+
+<img width="1168" alt="Screenshot 2023-11-06 at 12 41 27 PM" src="https://github.com/CodeCamp-Group4/personal-web-page/assets/146297878/00b88aa7-ec7b-4345-9a38-fc9f36fe7c27">
+
+<img width="1168" alt="Screenshot 2023-11-06 at 12 41 55 PM" src="https://github.com/CodeCamp-Group4/personal-web-page/assets/146297878/c0fbdeb9-dbc7-4eb1-8cd5-25d8513b7a6a">
+
+<img width="1168" alt="Screenshot 2023-11-06 at 12 43 19 PM" src="https://github.com/CodeCamp-Group4/personal-web-page/assets/146297878/622ae168-a702-4498-8aa7-7f889363db8e">
+
+
+
